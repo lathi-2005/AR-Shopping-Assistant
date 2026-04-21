@@ -27,5 +27,3 @@ An interactive mobile application developed using Unity that allows users to sca
 - AR product visualization
 - Online product database integration
 
-## 👨‍💻 Developed By
-Lathika C
